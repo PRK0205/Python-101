@@ -1,5 +1,5 @@
 # learn-python
-Python journey of Designer
+Learn Python - Beginner-Friendly Lessons
 
 ### Table of Content
 1. Introduction
