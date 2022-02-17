@@ -1,5 +1,5 @@
-# learn-python
-Learn Python - Beginner-Friendly Lessons
+# Learn Python
+Beginner-Friendly Lessons
 
 ### Table of Content
 1. Introduction
